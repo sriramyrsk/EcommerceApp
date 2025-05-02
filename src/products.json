@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 49000,
+      "discount": 10,
+      "inStock": true,
+      "isNew":true,
+      "category": "Phone",
+      "rating":4,
+      "image": "https://preview.colorlib.com/theme/electro/img/product07.png"
+    
+    },
+    {
+      "id": 2,
+      "name": "Laptop - 1",
+      "price": 89000,
+      "discount": 0,
+      "inStock": false,
+      "isNew":true, 
+      "category": "Laptop",
+      "rating":3,
+      "image": "https://preview.colorlib.com/theme/electro/img/product03.png"
+    },
+    {
+      "id": 3,
+      "name": "Watch",
+      "price": 199,
+      "discount": 10,
+      "inStock": true,
+      "isNew":false,
+      "category": "Accessories",
+      "rating":4,
+      "image": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7111545d/images/Sonata/Catalog/77105SL11_1.jpg?sw=600&sh=600"
+    },
+    {
+      "id": 4,
+      "name": "HeadPhone",
+      "price": 700,
+      "discount": 0,
+      "inStock": true,
+      "isNew":false,
+      "rating":4.6,
+      "category": "Accessories",
+      "image": "https://preview.colorlib.com/theme/electro/img/product02.png.webp"
+    },
+    {
+      "id": 5,
+      "name": "Laptop - 2",
+      "price": 70000,
+      "discount": 20,
+      "inStock": true,
+      "isNew":true,
+      "rating":3.7,
+      "category": "Laptop",
+      "image": "https://preview.colorlib.com/theme/electro/img/product01.png"
+    },
+    {
+      "id": 6,
+      "name": "Tv -1",
+      "price": 7000,
+      "discount": 0,
+      "inStock": true,
+      "isNew":true,
+      "rating":4,
+      "category": "Tv"                                                 ,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRov8vdvQn3egkBnLSlo2MJTCaTiBUuvjLR_VWrICUrPBGUWaZIRcbYMcH26SjwYvbtyMZpNdaUo-aol0nJ30ZdT_qZ9s6XobTlGoJYkEofWVKzAvk0GhNGiA&usqp=CAE"
+    },
+    {
+      "id": 7,
+      "name": "Apple Ipad",
+      "price": 25000,
+      "discount": 20,
+      "inStock": true,
+      "isNew":false,
+      "rating":5,
+      "category": "Phone"                                                 ,
+      "image": "https://preview.colorlib.com/theme/electro/img/product04.png"
+    }
+  
+  
+  ]
+  
